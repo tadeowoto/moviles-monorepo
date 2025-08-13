@@ -25,10 +25,10 @@ git clone https://github.com/TU_USUARIO/moviles-monorepo.git
 
 ## 3. Crea una Rama
 
-Crea una nueva rama para tus cambios. Es una buena práctica usar un nombre descriptivo para la rama, por ejemplo, `feat/nueva-caracteristica` o `fix/bug-de-navegacion`.
+Crea una nueva rama para subir la carpeta de la clase
 
 ```bash
-git checkout -b nombre-de-tu-rama
+git checkout -b nombre-de-tu-rama-con-la-clase
 ```
 
 ## 4. Realiza tus Cambios
